@@ -1,0 +1,1 @@
+let =parseInt(prompt("quantas series"))
